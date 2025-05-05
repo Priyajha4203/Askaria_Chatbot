@@ -1,9 +1,0 @@
-streamlit
-langchain
-faiss-cpu
-requests
-beautifulsoup4
-tiktoken
-python-dotenv
-sentence-transformers
-fpdf
