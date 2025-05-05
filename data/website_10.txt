@@ -1,0 +1,109 @@
+Best BTech Electronics & Communication Engineering College in Faridabad, Delhi NCR | ACEM
+Home
+Course Details
+Electronics & Communication Engineering (ECE)
+About the Course
+Electronics & Communication Engineering deals with the electronic devices, circuits, communication equipments like transmitter, receiver, integrated circuits (IC). It also deals with basic electronics, analog and digital transmission & reception of data, voice and video (Example AM, FM, DTH), microprocessors, satellite communication, microwave engineering, antenna and wave progression. It aims to deepen the knowledge and skills of the students on the basic concepts and theories that will equip them in their professional work involving analysis, systems implementation, operation, production, and maintenance of the various applications in the field of Electronics and Communications Engineering. Aravali College of Engineering and Management, Faridabad is topElectronics and Communication Engineering College in Delhi NCR.
+The main objective of the B.Tech (ECE) program in Aravali College of Engineering and Management, Faridabad, which is the best ECE College in Faridabad, is to equip students with necessary core competency to succeed long-term in engineering / entrepreneurship careers after completing their B.Tech and prepare them to undertake PG studies and research as career options.
+As a discipline, ECE focuses on the design of underlying hardware systems. The curriculum is directed to applications in major areas such as telecommunications, energy and electronics sectors, while encouraging development of necessary skills for integration of hardware and software components.
+Course Benefits
+Demonstrate the ability to analyze, design and improve practical hardware systems.
+Show the ability to communicate effectively and work well on team-based engineering projects.
+Succeed in entry-level electronics engineering positions.
+Pursue continued professional development, including professional registration if desired.
+Successfully pursue engineering graduate studies and research if desired.
+Eligibility Criteria:
+S.No.
+Course Name
+Branch
+Qualification
+1.
+B.Tech
+Electronics & Communication Engineering
+10+2 (PCM)
+Coures Content
+The total duration of this course is 4 years. Students apply the acquired knowledge in basic sciences and mathematics in solving Electronics and Communication Engineering problems with technical, economic, environmental and social contexts. Under electronics and communication department a student can design, build and test analog & digital electronic systems for given specifications.
+Year 1
+Student will study basic of electronics engineering in this year. Two main modules will be studied: elements of electronics engineering and basic of electrical engineering. These two modules help the student to prepare the base of other subjects in the coming years as they study digital circuits, analog circuits and electrical circuits. In addition to these modules workshop technology in also done where practical experiments are performed in the lab and electronics components such as CRO, Function generator, various power supplies are studied. Fabrication, assembly and waveform observations of rectifiers are performed under this workshop.
+Year 2
+In this year student will study the electronics devices such as MOSFET's and BJT's in detail to define, understand and explain the structure, V-I characteristics, working and applications of analog electronic devices like diodes, Bipolar Junction Transistors(BJTs) and MOSFETs. Network theory helps them to understand, define and explain the concepts of loop and node analysis, network topology and resonant circuits. The knowledge of network theorems, laplace transformation and state -space analysis to two port networks to obtain desired parameters. In this module electromagnetic theory helps students to define, understand, and explain concepts on electrostatics and magnetostatics, Time varying fields and Maxwell's equations, wave propagation in different media, concepts on reflection and dispersion of plane waves. In Analog electronics students learn to conduct experiments using analog electronic components and electronic instruments to function as switch, regulator, clippers, clampers, small signal amplifiers, oscillators, power amplifiers and in Digital electronics they improve their ability to understand, define and explain the fundamental concepts of Digital circuits, ability to analyze digital circuits and arrive at suitable conclusions. Analyze the given specifications of static and time varying Electric, Magnetic fields, uniform plane waves in various configurations/ distributions.
+Year 3
+In this year Digital system design & Analog electronics circuits helps students to analyze analog electronic circuits such as Op-amp amplifiers, rectifiers, filters, waveform generators, PLL, data converters, regulators, comparators ,555 timers etc. to obtain voltage /current/waveform at different points that meet desired specifications. Students learn to use analog electronic components, electronic instruments to function as amplifiers, comparators, rectifiers, filters, astable and monostable circuits using 555, data converters. Microprocessor interfacing and Microcontroller & Embedded system is taught to understand and explain computer based and memory based architecture, microcontroller, pipelining, addressing modes, and data types in Embedded C, basics of serial communication, timer configuration and interrupt handling. VLSI improves student's knowledge in MOS Transistor CO2 Design combinational and sequential circuits using CMOS gates CO3 and to identify the sources of power dissipation in a CMOS circuit. Microwave and Radar engineering is studied to learn the performance of specialized microwave tubes such as klystron, reflex klystron, magnetron and travelling wave tube.
+Year 4
+In final year DSP (Digital Signal Processing) helps students to classify signals and systems, obtain the output for LTI systems using the time domain and the frequency domain representation, obtain the frequency domain representation for continuous time signals, obtain the transfer function, pole-zero plot of the Butterworth filters and help them to Choose appropriate decimation and interpolation factors for high performance filters. Satellite communication helps students to understand the orbital and functional principles of satellite communication systems and they learn to analyze and evaluate a satellite link and suggest enhancements to improve the link performance. Optical fiber communication also teaches students to identify and characterize different components of an Optical Fiber Communication link & Analyze optical source, Fiber and Detector operational parameters. Mobile communication and wireless communication helps student's to know the evolution of cellular communication systems upto and beyond 3G and proper multiple accessing methods depending on channel model. It gives knowledge to calculate key performance metrics of a cellular communication system.
+Apart from this in the 8th semester there is provision of 4 month training/project. The students are required to undergo Industrial Training or Institutional Project Work of duration not less than 4 months in a related organization or concerned institute.
+Methods of Learning
+We use a variety of teaching methods, ranging from lectures and group tutorials to small groups in laboratories. Students are encouraged to use additional recommended reading material for private study to consolidate the formal learning process, and to broaden and deepen their understanding.
+Career
+There is guaranteed huge demand for competent engineers in electronic industry to cope this demand in technology.
+Job Options
+Consumer electronics manufacturing organization
+Telecommunication
+IT industries
+Health care equipment manufacturing
+Mobile communication(2G,3G,4G)
+Internet technologies
+Power Electronics
+Steel, petroleum and chemical industry, directing control and testing production process.
+Automobile
+Mechantronics
+Electrical Technicians and Technologists can specialize in technical sales, product representation, systems management, the design and manufacture of electronic devices and systems, or the installation, maintenance and repair of electronic systems and equipment.
+They may also work with computers and electronic equipment in the
+Medical
+Manufacturing
+Industrial Control
+Telecommunications
+Aeronautical
+Military fields
+How to Apply
+Student seeking admission in any of the courses offered by the University must first register himself/herself at the Institute and can call on the no's +91-8527538785.
+Candidate registered with the Institute has to fill the Admission Application Form prescribed by the Institute and has to attach the necessary testimonials in original and two photocopies each along with six passport size photographs.
+The application form and the necessary documents will then be processed by the Institute and sent to the University for admission. Candidate is required to submit the application form along with the documents before 15 august every year.
+Student should carefully check their eligibility while taking admission in a particular course of the University. In case of non-eligibility institute will not be responsible for the cancellation of admission and fees will not be refunded.
+Fee Structure
+Fee Structure Academic Year 2025-26 (B.Tech) Electronics & Communication Engineering:
+SR.NO
+FEE HEAD
+FEE
+1.
+Course Fee
+100,000/-
+2.
+University Charges (Variable)
+8,500/-
+3.
+Security Fee (Refundable) (Variable)
+4,000/-
+Hostel Fee :
+SR.NO
+FEE HEAD
+FEE
+1.
+Hostel Fee AC
+80,000/-
+2.
+Hostel Fee NON-AC
+65,000/-
+3.
+Security Fee (Refundable)
+4,000/-
+Transport Fee :
+SR.NO
+FEE HEAD
+FEE
+1.
+Transport Fee
+As per Location
+Other Courses
+B.Tech - CSE
+B.Tech - AIML
+B.Tech - Mechanical
+B.Tech - Civil
+B.Tech - ECE
+BBA
+BBA (FS&B)
+BBA (DM)
+MBA
+BCA
+BCA - Data Science
+Enquiry Now
