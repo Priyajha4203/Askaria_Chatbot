@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+requests
+beautifulsoup4
+tiktoken
+python-dotenv
+sentence-transformers
+fpdf
