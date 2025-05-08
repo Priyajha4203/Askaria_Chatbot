@@ -7,11 +7,9 @@ AskAria is an intelligent admission support chatbot designed for Arya College of
 - 💬 Answers admission-related queries instantly
 - 📊 Displays fee structure in a clean tabular format
 - 📍 Provides college location via map link
-- 🗣️ Accepts multilingual & voice-based queries
-- 🧠 Personalized replies using user profile history
 - 📁 Exports chat as downloadable PDFs
 - 📝 Feedback mechanism to improve responses
-- 🔍 Extendable to domains like placement & academics
+
 
 ## 🛠️ Tech Stack
 
