@@ -1,6 +1,6 @@
 🎓 AskAria: College Admission Chatbot
 
-AskAria is an intelligent admission support chatbot designed for Arya College of Engineering & IT. It helps students with admission queries, fee structures, and more using real-time responses powered by LangChain and Mistral API.
+AskAria is an intelligent admission support chatbot designed for Aravali College of Engineering & Management. It helps students with admission queries, fee structures, and more using real-time responses powered by LangChain and Mistral API.
 
 ## 🚀 Features
 
