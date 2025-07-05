@@ -2,11 +2,13 @@ from fpdf import FPDF
 from io import BytesIO
 import datetime
 import tempfile
+import os 
 
 class ChatPDF(FPDF):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.add_font('DejaVu', '', 'fonts/DejaVuSans.ttf', uni=True)
+        font_path = os.path.join("fonts", "DejaVuSans.ttf")  
+        self.add_font('DejaVu', '', font_path, uni=True)
 
     def header(self):
         self.set_font('DejaVu', '', 12)
@@ -21,18 +23,19 @@ class ChatPDF(FPDF):
         self.cell(0, 10, f"Page {self.page_no()}", align="C")
 
     def add_chat_message(self, role, time, message):
-        self.set_font("DejaVu", size=11)  # ✅ Fixed: use Unicode font
+        self.set_font("DejaVu", size=11)
         role_name = "You" if role == "user" else "AskAria"
         if isinstance(time, datetime.datetime):
             time = time.strftime("%Y-%m-%d %H:%M")
         self.multi_cell(0, 10, f"{role_name} ({time}):\n{message}\n", border=0)
         self.ln(3)
 
+
 def generate_pdf(chat_history):
     pdf = ChatPDF()
-    pdf.add_font('DejaVu', '', 'fonts/DejaVuSans.ttf', uni=True)  # Add this line here too
+    font_path = os.path.join("fonts", "DejaVuSans.ttf") 
+    pdf.add_font('DejaVu', '', font_path, uni=True)
     pdf.add_page()
-
 
     for chat in chat_history:
         role = chat["role"]
