@@ -7,16 +7,25 @@ import os
 class ChatPDF(FPDF):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        # Use absolute path based on current file location
         base_dir = os.path.dirname(os.path.abspath(__file__))
         font_path = os.path.join(base_dir, "fonts", "DejaVuSans.ttf")
-        self.add_font('DejaVu', '', font_path, uni=True)
+
+        if not os.path.exists(font_path):
+            raise FileNotFoundError(f"Font file not found at: {font_path}")
+
+        try:
+            self.add_font('DejaVu', '', font_path, uni=True)
+            self.set_font('DejaVu', '', 12)
+        except Exception as e:
+            raise RuntimeError(f"Error loading font: {e}")
 
     def header(self):
         self.set_font('DejaVu', '', 12)
-        self.image("logo/acem_logo.png", x=10, y=8, w=25)
+        try:
+            self.image("logo/acem_logo.png", x=10, y=8, w=25)
+        except Exception:
+            pass  # Skip image if not found
         self.ln(20)
-        self.set_font("DejaVu", size=12)
         self.cell(0, 10, "AskAria - Chat Transcript", ln=True, align="C")
 
     def footer(self):
@@ -38,10 +47,13 @@ def generate_pdf(chat_history):
     pdf.add_page()
 
     for chat in chat_history:
-        role = chat["role"]
-        time = chat.get("timestamp", "")
-        message = chat["message"].replace("\n", " ")
-        pdf.add_chat_message(role, time, message)
+        try:
+            role = chat["role"]
+            time = chat.get("timestamp", "")
+            message = chat["message"].replace("\n", " ")
+            pdf.add_chat_message(role, time, message)
+        except Exception as e:
+            print(f"Skipping chat due to error: {e}")
 
     with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as temp_file:
         pdf.output(temp_file.name)
