@@ -2,12 +2,14 @@ from fpdf import FPDF
 from io import BytesIO
 import datetime
 import tempfile
-import os 
+import os
 
 class ChatPDF(FPDF):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        font_path = os.path.join("fonts", "DejaVuSans.ttf")  
+        # Use absolute path based on current file location
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        font_path = os.path.join(base_dir, "fonts", "DejaVuSans.ttf")
         self.add_font('DejaVu', '', font_path, uni=True)
 
     def header(self):
@@ -33,8 +35,6 @@ class ChatPDF(FPDF):
 
 def generate_pdf(chat_history):
     pdf = ChatPDF()
-    font_path = os.path.join("fonts", "DejaVuSans.ttf") 
-    pdf.add_font('DejaVu', '', font_path, uni=True)
     pdf.add_page()
 
     for chat in chat_history:
