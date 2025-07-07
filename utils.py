@@ -88,24 +88,24 @@ then Please list each course or department as a clean markdown table format:
 
 Academic Fees :
 
-| SR.NO | FEE HEAD                              | FEE        |
-|-------|----------------------------------------|-----------|
-| 1.    | Course Fee                             |           |
-| 2.    | University Charges (Variable)          |           |
-| 3.    | Security Fee (Refundable, Variable)    |           |
+| SR.NO | FEE HEAD                               | FEE (in Rs.)|
+|-------|----------------------------------------|-------------|
+| 1.    | Course Fee                             |             |
+| 2.    | University Charges (Variable)          |             |
+| 3.    | Security Fee (Refundable, Variable)    |             |
 
 
 Hostel Fee:
 
-| SR.NO | FEE HEAD                    | FEE     |
-|-------|-----------------------------|---------|
-| 1.    | Hostel Fee AC               |         |
-| 2.    | Hostel Fee NON-AC           |         |
-| 3.    | Security Fee (Refundable)   |         |
+| SR.NO | FEE HEAD                    | FEE (in Rs.)|
+|-------|-----------------------------|-------------|
+| 1.    | Hostel Fee AC               |             |
+| 2.    | Hostel Fee NON-AC           |             |
+| 3.    | Security Fee (Refundable)   |             |
 
 Transport Fee:
 
-| SR.NO | FEE HEAD      | FEE             |
+| SR.NO | FEE HEAD      | FEE (in Rs.)    |
 |-------|---------------|-----------------|
 | 1.    | Transport Fee | As per location |
 
