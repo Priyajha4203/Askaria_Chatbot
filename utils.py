@@ -99,9 +99,9 @@ Hostel Fee:
 
 | SR.NO | FEE HEAD                    | FEE     |
 |-------|-----------------------------|---------|
-| 1.    | Hostel Fee AC               | ₹80,000 |
-| 2.    | Hostel Fee NON-AC           | ₹65,000 |
-| 3.    | Security Fee (Refundable)   | ₹4,000  |
+| 1.    | Hostel Fee AC               |         |
+| 2.    | Hostel Fee NON-AC           |         |
+| 3.    | Security Fee (Refundable)   |         |
 
 Transport Fee:
 
