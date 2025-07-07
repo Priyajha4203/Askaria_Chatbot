@@ -191,7 +191,7 @@ if query:
 if st.session_state.chat_history:
     pdf_buffer = generate_pdf(st.session_state.chat_history)
     st.download_button(
-        label="📄Download Chat as PDF",
+        label="Download Chat as PDF",
         data=pdf_buffer,
         file_name="askaria_chat.pdf",
         mime="application/pdf"
